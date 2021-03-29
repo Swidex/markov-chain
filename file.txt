@@ -1,0 +1,6 @@
+movement > shield chase > promptness > vacuum > sanctitus > iframe > shield chase > iframe > shield chase > iframe > promptness > hasti > iframe > grab > combo
+movement > shield chase > counter > iframe > shield chase > promptness > block > iframe > promptness > blitz stab > iframe > shield chase > jc > iframe > grab > combo
+movement > shield chase > counter > iframe > promptness > dlc > shining dash > shield chase > grab > combo > iframe > sanctitus > iframe > vacuum > dlc > shield chase > righteous charge > grab > combo
+movement > shield chase > jc > shield chase > spear > shield throw > promptness > block > sanctitus > dlc > hasti > grab > combo
+movement > iframe > dlc > hasti > shield chase > jc > iframe > grab > combo > iframe > promptness > sanctitus > iframe > shield chase > counter > combo
+movement > dlc > vacuum > sanctitus > iframe > shield chase > iframe > righteous charge > grab > iframe > shield chase > iframe > promptness > shining dash > iframe > counter > combo > block
